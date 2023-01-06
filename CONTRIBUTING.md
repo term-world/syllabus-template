@@ -62,7 +62,7 @@ git branch
 This will display your current branch aswell as any other branch that may have been created in this repository.
 
 
-## Navigation
+## Common Commands
 
 In order to navigate around the files and folders during each project in `term-world`, there are a few commands you will need.
 
