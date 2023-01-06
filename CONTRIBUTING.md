@@ -173,7 +173,13 @@ In order to submit aswell as save your work you will first have to locate the "r
 git add -A
 ```
 
-We will then add a message and commit this work to `Github` with the command:
+Or if you just want to push singluar files or folders to `Github` then you can instead use the command
+
+```
+git add NAME_OF_FILE_OR_DIRECTORY_TO_ADD
+```
+
+After that, We will then add a message and commit this work to `Github` with the command:
 
 ```
 git commit -m "MESSEGE-HERE"
@@ -189,3 +195,12 @@ git push
 After you input the password for your `SSH` key you will have pushed the added content to the branch you were currently on. If you pushed content to a branch away from `main`, you can now make a `Pull-request` in `Github` by clicking on the `Pull-request` tab and creating a new `Pull-request` that compares your branch to `main`. From there you can evaulate the changes made and `merge` your branch with main.
 
 * If this is a group project then you will need the approval of your group members before you can merge. This is done by assigning your group members to approve your content in the `Pull-request`.
+
+## Backup policy reminder
+
+**While we may use this server to store code, you are responsible for using GitHub as your main backup.**
+
+In the event that the `term-world` server goes down for any unforeseen reason, your work may be lost. Though this server is backed up on a regular (i.e. weekly) basis, there is no guarantee that up-to-the-minute data for your work will be restored.
+
+Remember: to err is human; to back up your work is *divine*.
+
