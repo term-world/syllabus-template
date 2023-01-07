@@ -1,0 +1,206 @@
+# CMPSC 100: Workflow Resources
+
+![Pixelated desert with tumbleweeds, birds circling, at high noon](https://raw.githubusercontent.com/allegheny-college-cmpsc-100-fall-2022/course-materials/media/media/term_desert.png)
+
+Here you can find the tools needed to traverse and use `term-world`.
+
+## SSH Keys
+
+After creating a `Github` account, you will need to create a `SSH` key in order to authenicate your account in `term-world`. Here is a video detailing the process:
+
+[![SSH Key video]( http://img.youtube.com/vi/qEPjUGQFmzQ/hqdefault.jpg)](https://www.youtube.com/watch?v=qEPjUGQFmzQ&list=PLsYZRXov75ZHSwWiCk0-jd1RcTuu_-zmD&index=1)
+
+## Getting Content
+
+In order to complete the workload for any project you'll first need to `clone` the repository into `term-world`.
+
+When you `clone` a repository you're duplicating its contents and adding them to your local workspace. Since you'll be working collaboratively with your neighbors on many projects, you'll each need your own copy of the repository to work with.
+
+Head to GitHub and:
+* click on the green `Code` button
+* ensure that `SSH` is selected
+* copy the link that appears in the window below
+
+![github](https://user-images.githubusercontent.com/112453830/211095389-01b81e00-89cb-40be-a306-57bea4e1fb7e.png)
+
+Once you've copied this link, navigate to your terminal window, go to the file that you clone the repository into, then with your copied link enter the command:
+
+```
+git clone COPIED-LINK-HERE
+```
+
+After you enter your password made with the `SSH` key the assignment will have been cloned into `term-world`.
+
+**NOTICE: If the `workshop` project has already been completed then all future assignment will be cloned into the `workshop` folder**
+
+## Branches
+
+When working on `term-world` content, most of the time you will need to create a new test `branch` in order to get get feedback and make corrections before altering the `main` branches code. 
+
+There are multiple ways to do this but the easiest way is to click on the `branches` button in a `Github` repository then clicking on the green `create branch` button. Then you can name that branch and create it. 
+
+From there you can go back to `term-world` and use the terminal to type the following command:
+
+```
+git fetch
+```
+
+This will fetch new branches that were just created in `Github`. Then in order to change over to our newly made branch we will use the command:
+
+```
+git checkout NEW-BRANCH-NAME-HERE
+```
+
+This will switch us over to the new branch and allow us to safely code without the chance of breaking the `main` branch
+
+In case you forgot what branch you are in you can use the command:
+
+```
+git branch
+```
+
+This will display your current branch aswell as any other branch that may have been created in this repository.
+
+
+## Common Commands
+
+In order to navigate around the files and folders during each project in `term-world`, there are a few commands you will need.
+
+### 1. `cd`
+
+`cd` is short for "change directory", this commands allows you to move to different folders in the `tree` you will be navigating
+
+![level-of-tree-data-structure](https://user-images.githubusercontent.com/112453830/211088342-bc006cc2-4e62-42c4-8be0-90e2749c2a54.png)
+
+For Example, if we were in folder `A` for this tree we would use the following command to move to folder `B`:
+
+```
+cd B
+```
+
+Then if we wanted to go back to folder `A` we would use the command:
+
+```
+cd ..
+```
+
+We can even chain these commands together to move multiple folders at a time, such as if we wanted to move directly to folder `D`:
+
+```
+cd ~/A/B/D
+```
+
+In order to check where you are in `term-world` you can always check your `command prompt` from the text right before your cursor. If we were in folder `B` for example.
+
+```
+CalebKendra@term-world:~/A/B$ 
+```
+
+Here we can see that we are in folder `B`, which is inside of folder `A`, which is in our _home_ directory as marked by the `~`.
+
+### 2. `ls`
+
+Anytime you wish to "list" out the contents of a given folder you can use the command `ls`, this will list out all folder and files in a given folder. If we were to run the `ls` command from folder `A` for example, we would get:
+
+```
+CalebKendra@term-world:~/A$ ls
+B  C
+```
+
+### 3. `python`
+
+When you want to run the code inside of any `python` file with a `.py` afterwards, you simply run the `python` command just before the full file name. Such as if I wanted to run a `python` file named `Box.py` you would run the following:
+
+```
+python Box.py
+```
+## Updating content
+
+When changes are made to main by you or your group members, you will need to `pull` those changes to `term-world` from `Github`. In order to pull new content from `main` or any other branch you first need to use the `git checkout` command to switch to the branch you want to update, then you need to use the command:
+
+```
+git pull
+```
+
+## Checking content
+
+Each week's repository is outfitted with a grader that can be used to evaluate your work for the week. In order to run the this grader for a given week's work, you'll need to first navigate to the "root" folder of the assignment (that is, the base folder containing a given assignment's work, such as `house`):
+
+```
+cd ~/house
+```
+
+Once there you'll need to run the following command:
+
+```
+gatorgrade
+```
+
+Once the grader has finished running (it may take a couple minutes) you'll be presented with a series of checks that determine the overall "completeness" of your work. For instance, your output may look something like:
+
+```
+✔  Customize the nameplate (no TODOs)
+✘  Find the Ink hidden in the couch
+✘  Print the lease
+✔  Enter the house
+✘  Open the UltraHeavyBox
+✘  Open the FragileBox
+✘  Open the SinisterLookingBox
+✘  Open the TubeShapedBox
+✘  Open the BeatUpBox
+
+-~-  FAILURES  -~-
+
+✘  Find the Ink hidden in the couch
+✘  Print the lease
+✘  Open the UltraHeavyBox
+✘  Open the FragileBox
+✘  Open the SinisterLookingBox
+✘  Open the TubeShapedBox
+✘  Open the BeatUpBox
+
+        Passed 2/9 (22%) of checks for user-house-solved! ┃
+
+```
+
+As you can tell, there are some checks which have been satisfied, though there are many which have not. Be sure to have *all* of the checks required for your desired grade completed by the due date!
+
+## Submitting/saving content
+
+In order to submit aswell as save your work you will first have to locate the "root" fodler of the assignment using `cd` commands. Once you are there you need to tell `Github` that you want to upload all files in this folder with the command:
+
+```
+git add -A
+```
+
+Or if you just want to push singluar files or folders to `Github` then you can instead use the command
+
+```
+git add NAME_OF_FILE_OR_DIRECTORY_TO_ADD
+```
+
+After that, We will then add a message and commit this work to `Github` with the command:
+
+```
+git commit -m "MESSEGE-HERE"
+```
+* The messege here should be short but discriptive as to what you acomplished
+
+Then to send the changes to the server you use the command:
+
+```
+git push
+```
+
+After you input the password for your `SSH` key you will have pushed the added content to the branch you were currently on. If you pushed content to a branch away from `main`, you can now make a `Pull-request` in `Github` by clicking on the `Pull-request` tab and creating a new `Pull-request` that compares your branch to `main`. From there you can evaulate the changes made and `merge` your branch with main.
+
+* If this is a group project then you will need the approval of your group members before you can merge. This is done by assigning your group members to approve your content in the `Pull-request`.
+
+## Backup policy reminder
+
+**While we may use this server to store code, you are responsible for using GitHub as your main backup.**
+
+In the event that the `term-world` server goes down for any unforeseen reason, your work may be lost. Though this server is backed up on a regular (i.e. weekly) basis, there is no guarantee that up-to-the-minute data for your work will be restored.
+
+Remember: to err is human; to back up your work is *divine*.
+
