@@ -14,7 +14,7 @@ After creating a `Github` account, you will need to create a `SSH` key in order 
 
 In order to complete the workload for any project you'll first need to `clone` the repository into `term-world`.
 
-When you `clone` a repository you're duplicating its contents and adding them to your local workspace. Since you'll be working collaboratively with your neighbors on many projects, you'll each need your own copy of the repository to work with.
+When you `clone` a repository you're duplicating its contents and adding them to your local workspace (e.g., your `term-world` browser) where you can safely edit the contents of the repository as needed.
 
 Head to GitHub and:
 * click on the green `Code` button
@@ -33,9 +33,66 @@ After you enter your password made with the `SSH` key the assignment will have b
 
 **NOTICE: If the `workshop` project has already been completed then all future assignment will be cloned into the `workshop` folder**
 
-## Branches
+## Common Commands
 
-When working on `term-world` content, most of the time you will need to create a new test `branch` in order to get get feedback and make corrections before altering the `main` branches code. 
+In order to navigate around the files and folders during each project in `term-world`, there are a few commands you will need.
+
+### 1. `cd`
+
+`cd` is short for "change directory"; this command allows you to move to different folders in the directory `tree`.
+
+![level-of-tree-data-structure](https://user-images.githubusercontent.com/112453830/211088342-bc006cc2-4e62-42c4-8be0-90e2749c2a54.png)
+
+For Example, if we were in folder `A` of the above directory `tree` we would use the following command to move to folder `B`:
+
+```
+cd B
+```
+
+Then if we wanted to go back to folder `A` we would use the command:
+
+```
+cd ..
+```
+
+We can even chain these commands together to move multiple folders at a time, such as if we wanted to move directly to folder `D` from folder `A`:
+
+```
+cd B/D
+```
+
+In order to check where you are in `term-world` you can always check your `command prompt` from the text right before your cursor. If we were in folder `B` for example, we might see:
+
+```
+dluman@term-world:~/A/B$ 
+```
+
+Here we can see that we are in folder `B`, which is inside of folder `A`, which is in our _home_ directory (which is indicated by the `~`).
+
+### 2. `ls`
+
+Anytime you wish to "list" out the contents of a given folder you can use the command `ls`; this will list out all folder and files in a given folder. If we were to run the `ls` command from folder `A`, for example:
+
+```
+dluman@term-world:~/A$ ls
+B  C
+```
+
+Here we can see that the two folders belonging to `A` (`B` & `C`) are produced as output from the `ls` command. This is handy for knowing what navigation options are available to you at any time!
+
+### 3. `python`
+
+If you want to run the code inside of any Python file (which are generally indicated with a `.py` extension at the end of the file name), you simply use the `python` command. For this particular command, you need to follow the command itself with the full file name, all on a single line. For instance, if I wanted to run a program called `Box.py`, I would use the command:
+
+```
+python Box.py
+```
+
+Of course, this command has to be run in the directory that houses the Python file. `ls` is helpful for knowing if you're in the right place to run the `python` command!
+
+## Checking Out Branches
+
+When working on `term-world` content, you'll often need to create a new test `branch` in order to get get feedback and make corrections before altering the `main` branch's code. 
 
 There are multiple ways to do this but the easiest way is to click on the `branches` button in a `Github` repository then clicking on the green `create branch` button. Then you can name that branch and create it. 
 
@@ -59,70 +116,17 @@ In case you forgot what branch you are in you can use the command:
 git branch
 ```
 
-This will display your current branch aswell as any other branch that may have been created in this repository.
+This will display your current branch as well as any other branch that may have been created in this repository.
 
+## Pulling & Updating Content
 
-## Common Commands
-
-In order to navigate around the files and folders during each project in `term-world`, there are a few commands you will need.
-
-### 1. `cd`
-
-`cd` is short for "change directory", this commands allows you to move to different folders in the `tree` you will be navigating
-
-![level-of-tree-data-structure](https://user-images.githubusercontent.com/112453830/211088342-bc006cc2-4e62-42c4-8be0-90e2749c2a54.png)
-
-For Example, if we were in folder `A` for this tree we would use the following command to move to folder `B`:
-
-```
-cd B
-```
-
-Then if we wanted to go back to folder `A` we would use the command:
-
-```
-cd ..
-```
-
-We can even chain these commands together to move multiple folders at a time, such as if we wanted to move directly to folder `D`:
-
-```
-cd ~/A/B/D
-```
-
-In order to check where you are in `term-world` you can always check your `command prompt` from the text right before your cursor. If we were in folder `B` for example.
-
-```
-CalebKendra@term-world:~/A/B$ 
-```
-
-Here we can see that we are in folder `B`, which is inside of folder `A`, which is in our _home_ directory as marked by the `~`.
-
-### 2. `ls`
-
-Anytime you wish to "list" out the contents of a given folder you can use the command `ls`, this will list out all folder and files in a given folder. If we were to run the `ls` command from folder `A` for example, we would get:
-
-```
-CalebKendra@term-world:~/A$ ls
-B  C
-```
-
-### 3. `python`
-
-When you want to run the code inside of any `python` file with a `.py` afterwards, you simply run the `python` command just before the full file name. Such as if I wanted to run a `python` file named `Box.py` you would run the following:
-
-```
-python Box.py
-```
-## Updating content
-
-When changes are made to main by you or your group members, you will need to `pull` those changes to `term-world` from `Github`. In order to pull new content from `main` or any other branch you first need to use the `git checkout` command to switch to the branch you want to update, then you need to use the command:
+When changes are made to `main` by you or your group members, you will need to `pull` those changes to `term-world` from `GitHub`. In order to pull new content from `main` or any other branch you first need to use the `git checkout` command to switch to the branch you want to update. Once there, simply use the command:
 
 ```
 git pull
 ```
 
-## Checking content
+## Evaluating Content with `gatorgrade`
 
 Each week's repository is outfitted with a grader that can be used to evaluate your work for the week. In order to run the this grader for a given week's work, you'll need to first navigate to the "root" folder of the assignment (that is, the base folder containing a given assignment's work, such as `house`):
 
@@ -163,11 +167,11 @@ Once the grader has finished running (it may take a couple minutes) you'll be pr
 
 ```
 
-As you can tell, there are some checks which have been satisfied, though there are many which have not. Be sure to have *all* of the checks required for your desired grade completed by the due date!
+As you can tell, there are some checks which have been satisfied, though there are many which have not. Be sure to have *all* of the required checks completed by the due date in order to receive credit for assignment completion!
 
-## Submitting/saving content
+## Submitting/Saving Content
 
-In order to submit aswell as save your work you will first have to locate the "root" fodler of the assignment using `cd` commands. Once you are there you need to tell `Github` that you want to upload all files in this folder with the command:
+In order to save and submit your work you will first have to locate the "root" folder of the assignment using `cd` commands. Once there you need to tell `GitHub` that you want to upload all files in this folder with the command:
 
 ```
 git add -A
@@ -186,17 +190,25 @@ git commit -m "MESSEGE-HERE"
 ```
 * The messege here should be short but discriptive as to what you acomplished
 
-Then to send the changes to the server you use the command:
+If you're not working off of a `branch`, then you can send the changes to the server with the command:
 
 ```
 git push
 ```
 
-After you input the password for your `SSH` key you will have pushed the added content to the branch you were currently on. If you pushed content to a branch away from `main`, you can now make a `Pull-request` in `Github` by clicking on the `Pull-request` tab and creating a new `Pull-request` that compares your branch to `main`. From there you can evaulate the changes made and `merge` your branch with main.
+If you *are* working off of a `branch`, then you'll instead need to complete the `add`-`commit`-`push` chain with the following adjusted command:
 
-* If this is a group project then you will need the approval of your group members before you can merge. This is done by assigning your group members to approve your content in the `Pull-request`.
+```
+git push origin BRANCH-NAME-HERE
+```
 
-## Backup policy reminder
+To complete the process you'll need to input the password associated with your `SSH` key.
+
+If you pushed content to a branch away from `main`, you can now make a `Pull-request` in `GitHub` by clicking on the `Pull-request` tab and creating a new `Pull-request` that compares your branch to `main`. From there you can evaulate the changes made and `merge` your branch with main.
+
+* If this is a group project then you will need the approval of your group members before you can merge. This is done by assigning your group members to the `Reviewers` tab towards the righthand side of the `Pull-request` page.
+
+## Backup Policy Reminder
 
 **While we may use this server to store code, you are responsible for using GitHub as your main backup.**
 
