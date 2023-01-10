@@ -208,6 +208,22 @@ If you pushed content to a branch away from `main`, you can now make a `Pull-req
 
 * If this is a group project then you will need the approval of your group members before you can merge. This is done by assigning your group members to the `Reviewers` tab towards the righthand side of the `Pull-request` page.
 
+### Merging Content
+
+In some cases when you make a pull request you'll have to specify what parts of a pull request make it into the `main` branch. If that's the case, you'll instead see a `Resolve conflicts` button. Click that and you'll be presented with a proposed merged copy of the code, with some extra lines added in. Something akin to:
+
+```
+<<<<<<
+x = "this_is_a_line_of_code"
+=======
+x = "this_is_a_different_line_of_code"
+>>>>>>
+```
+
+To resolve said conflicts, you'll need to delete the portion of code you don't want to appear in the final product, as well as any `<<<<<`, `======`, or `>>>>>>` lines.
+
+Once complete, click `Mark as resolved` followed by `Commit merge`, and the changes on the branch will be joined with the `main` branch!
+
 ## Backup Policy Reminder
 
 **While we may use this server to store code, you are responsible for using GitHub as your main backup.**
@@ -215,4 +231,3 @@ If you pushed content to a branch away from `main`, you can now make a `Pull-req
 In the event that the `term-world` server goes down for any unforeseen reason, your work may be lost. Though this server is backed up on a regular (i.e. weekly) basis, there is no guarantee that up-to-the-minute data for your work will be restored.
 
 Remember: to err is human; to back up your work is *divine*.
-
