@@ -6,19 +6,20 @@ Here you can find the tools needed to traverse and use `term-world`.
 
 # Table of Contents
 
-1. [SSH Keys](##SSHKeys)
-2. [Getting Content](##GettingContent)
-3. [Common Commands](##CommonCommands)
-4. [Checking Out Branches](##CheckingOutBranches)
-5. [Pulling & Updating Content](##Pulling&UpdatingContent)
-6. [Evaluating Content with `gatorgrade`](##EvaluatingContentwith`gatorgrade`)
-7. [Submitting/Saving Content](##Submitting/SavingContent)
-8. [Merging Content](##MergingContent)
-9. [Collaborative reflections](##Collaborativereflections)
-10. [Making an improvement proposal](##Makinganimprovement proposal)
-11. [Backup Policy](##BackupPolicy)
-
-
+- [SSH Keys](#ssh-keys)
+- [Getting Content](#getting-content)
+- [Common Commands](#common-commands)
+  * [1. `cd`](#1--cd-)
+  * [2. `ls`](#2--ls-)
+  * [3. `python`](#3--python-)
+- [Checking Out Branches](#checking-out-branches)
+- [Pulling & Updating Content](#pulling---updating-content)
+- [Evaluating Content with `gatorgrade`](#evaluating-content-with--gatorgrade-)
+- [Submitting/Saving Content](#submitting-saving-content)
+  * [Merging Content](#merging-content)
+- [Collaborative reflections](#collaborative-reflections)
+- [Making an improvement proposal](#making-an-improvement-proposal)
+- [Backup Policy](#backup-policy)
 
 ## SSH Keys
 
