@@ -2,23 +2,25 @@
 
 ## A word from the Mayor
 
-We're building a world. That task shouldn't be taken on as a solitary or light burden. In many ways, the product of such an endeavor always means to be imperfect; we learn more as we _do_, and that process is rarely (i.e. never) linear or "clean." We benefit from being able to be a bit messy. You may intuit from this statement that we mean to engage with _process_ much more than _product_, though the latter is necessary. Following the various processes of `term-world` closely should yield a successful product; however, production of output is only the _basic_ expectation of the work we'll complete together.
+We're building a world. That task shouldn't be taken on as a solitary or light burden. In many ways, this is always imperfect; we learn more as we _do_, and that process is rarely (i.e. never) linear or "clean." We benefit from being able to be a bit messy. You may gather from this statement that this approach cares about _process_ much more than _product_, though the latter is necessary. Following the various processes of `term-world` closely should yield a successful product. That written, production of output is a _basic_ expectation of the work we'll complete together.
 
-That's why this community is evaluated on a _contract basis_, the terms of which are spelled out here. This document specifies your responsibilities and how that work will be rewarded. We're able to substantially alter the terms of this deal (see [the "Rules Rule"](#the-rules-rule) below), though we don't do so without participation in course governance.
+However, there are manifold tasks that are often undercounted or _not_ counted in traditional grading. That's why this community is evaluated on a _contract basis_, the terms of which are spelled out here. This document specifies your responsibilities and how that work will be rewarded. We're able to substantially alter the terms of this deal (see [the "Rules Rule"](#the-rules-rule) below), though we don't do so without participation in course governance.
 
 ## Contract stipulations
 
 ### The Basic Grade
 
-(To qualify for this tier, all basic assignment objectives must be completely met.)
+**To qualify for this tier, all basic assignment objectives must be completely met.**
 
 * All citizens who meet the covenants of this contract will earn an individual letter grade of `C` in this course
 
-You may ask: why the basic grade is a `C` and not a `B` or `B-`? Rising to the level of above-average or exceptional work relies on the just that -- above-average or exceptional work. Merely completing the assignments maintains a kind of _status quo_. As our interest centers on making a _better_ world, this contract should provide incentive to think beyond mere sufficiency. As you'll see below, work that aspires to higher levels of reward involves doing the work of planning and (better yet) _making_ improvements.
+You may ask: why is the basic grade is a `C` and not a `B` or `B-`. 
+
+Rising to the level of above-average or exceptional work relies on the just that -- above-average or exceptional work. Merely completing the assignments maintains a kind of _status quo_. As our interest centers on making a _better_ world, this contract should provide incentive to think beyond mere sufficiency. As you'll see below, work that aspires to higher levels of reward involves doing the work of planning and (better yet) _making_ improvements.
 
 ### The `A` tier
 
-(To qualify for this tier, all basic assignment objectives must be completely met.)
+**To qualify for this tier, all basic assignment objectives must be completely met.**
 
 Citizens who take the opportunity to both provide _and_ implement substantive improvements to assignment content qualify for this contract tier. In order to qualify for this tier, citizens must:
 
