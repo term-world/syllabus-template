@@ -71,7 +71,7 @@ Proposing an improvment allows a citizen to _implement_ (i.e. make) that improve
 
 * All basic requirements for all assignments complete
 * `8` assignments contain a proposal from the citizen in question
-* `4` assignments have an improvement implemented by the citizen in question
+* `6` assignments have an improvement implemented by the citizen in question
 
 #### The `B` tier
 
@@ -149,7 +149,7 @@ The table below summarizes the contract "tiers" above.
 |Final letter grade |Assignments completed |Proposals completed |Improvements implemented |
 |:------------------|:---------------------|:-------------------|:------------------------|
 |A                  | 10                   |8                   |8                        |
-|A-                 | 10                   |8                   |4                        |
+|A-                 | 10                   |8                   |6                        |
 |B+                 | 10                   |6                   |4                        |
 |B                  | 10                   |4                   |4                        |
 |B-                 | 10                   |4                   |2                        |
