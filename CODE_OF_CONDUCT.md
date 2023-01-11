@@ -89,11 +89,13 @@ This agreement operates on the understanding that circumstances may arise which 
 
 #### `Incomplete` assignments
 
-For every two (2) incomplete assignments, a citizen's course grade will be lowered by half a letter grade (e.g. _two_ (2) incomplete assignments would result in a mark of `C-`, et al.).
+* For every two (2) incomplete assignments, a citizen's course grade will be lowered by half a letter grade
+  * e.g. _two_ (2) incomplete assignments would result in a mark of `C-`, et al.
 
 #### `Ignored` assignments
 
-If a citizen misses _any_ assignment, their course grade is lowered by a half letter grade for each (e.g. _one_ (1) assignment missed would result in a `C-`, et al.).
+* If a citizen does not make an attempt to `push` work for an assignment, their course grade is lowered by a half letter grade for each such assignment
+  * e.g. _one_ (1) assignment missed would result in a `C-`, et al.
 
 #### Plagiarism or other inappropriate/dishonest academic behavior
 
