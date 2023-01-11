@@ -4,6 +4,10 @@
 
 Here you can find the tools needed to traverse and use `term-world`.
 
+# Table of Contents
+
+1. [SSH Keys](##SSHKeys)
+
 ## SSH Keys
 
 After creating a `Github` account, you will need to create a `SSH` key in order to authenicate your account in `term-world`. Here is a video detailing the process:
