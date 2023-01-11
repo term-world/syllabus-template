@@ -24,100 +24,114 @@ Rising to the level of above-average or exceptional work relies on the just that
 
 **Opportunities to implement improvements will begin during the `Bodega` assignment.**
 
-Improvements serve as a way to:
+Much of the language below will not make complete sense until we're into the collaborative portion of our work. That will come a bit later.
+
+Improvements are small additions to assignments that extend your service in `term-world`. They serve as a way to:
 
 * gain extra practice with course concepts
 * demonstrate an above-average level of effort
 
-Each "improvable" assignment will suggest `10` potential improvements to choose from. Improvements 
+Each "improvable" assignment will suggest `10` potential improvements to choose from. Selecting from this list, improvements must be unique (i.e. two students cannot complete the same improvement).
 
-### The `A` tier
+#### Proposing improvements
 
-**To qualify for this tier, all basic assignment objectives must be completed.**
+Improvements must go through a formal proposal process. To propose an assignment-related world improvment, citizens must use the `Improvement Proposal` template for a given GitHub repository's `Issues` which:
 
-Citizens who take the opportunity to both provide _and_ implement substantive improvements to assignment content qualify for this contract tier. In order to qualify for this tier, citizens must:
-
-* propose an assignment-related world improvment in each available week's repository using the `Improvement Proposal` `Issue` template on GitHub which:
-  * completes all document prompts
-  * must be done by start of a lab session (Friday) of a given week
+  * responds to the templates questions/prompts
+  * is completed by the start of a lab session of a given week
   * must be approved _in writing_ by the Mayor by the end of the lab session
-    * the Office of the Mayor will provide suggestions in response
-  * must either incorporate or provide rationale for _not_ incorporating suggestions from the Mayor's Office
-    * this work is due by the assignment deadline (Sunday of each week)
-* implement the improvement proposed by the assignment deadline
+    * the Office of the Mayor will provide suggestions and approval via the `Issue` filed to propose the improvement
+  * must either incorporate suggested changes or provide rationale for _not_ incorporating them
 
-This proposal _must be linked_ to the `Pull Request` in which the work was completed.
+#### Implementing improvements
 
-These proposals may be revisions to existing content or creation of wholly new content. In many cases, executing planned improvements will require some consultation with either community Technical Leaders _or_ the Mayor. Citizens wishing to achieve this tier should expect to avail themselves of the resources available, including office hours and other forms of correspondence.
+Proposing an improvment allows a citizen to _implement_ (i.e. make) that improvement. To implement an improvement:
 
-Proposals and improvements must be completed for all weeks unless a week's content specifies otherwise in the accompanying assignment `README`. 
+   * create a separate `branch` for improvement work, which features an appropriate title
+   * make all relevant changes on that `branch`
+   * `push` that `branch` to GitHub
+   * open a `Pull Request` via the assignment repository
+   * link the `Issue` containing the proposal to the created `Pull Request`
+     * do this using the `Development` section of the `Issue` (located on the right sidebar)
+   * request review of at least `3` neighorhood members and `1` member of the Office of the Mayor
 
-#### `A-` grades
+### Grading
 
-Citizens who do not meet the above requirements for two (2) weeks will be awarded a mark of `A-` if all other weeks contain a proposal and subsequent improvement(s).
-
-### The `B` tier
+#### The `A` tier
 
 **To qualify for this tier, all basic assignment objectives must be completed.**
 
-Citizens who take the opportunity to both provide substantive improvements to assignment content qualify for this contract tier. In order to qualify for this tier, citizens must:
+##### `A` grades
 
-* propose an assignment-related world improvment in each week's repository using the `Improvement Proposal` Issue template on GitHub which:
-  * completes all document prompts
-  * must be finished by the start of a lab session (Friday) of a given week
-  * must be recognized _in writing_ by the Mayor by the end of the lab session
-  * must either incorporate or provide rationale for _not_ incorporating suggested revisions
-    * this work is due by the assignment deadline (Sunday of each week)
+* All basic requirements for all assignments complete
+* `8` assignments contain a proposal from the citizen in question
+* `8` assignments have an improvement implemented by the citizen in question
 
-This proposal _must be linked_ to the `Pull Request` in which the work was completed.
+##### `A-` grades
 
-These proposals may be revisions to existing content or creation of wholly new content. Proposals must be completed for all weeks unless a week's content specifies otherwise in the accompanying assignment `README`. 
+* All basic requirements for all assignments complete
+* `8` assignments contain a proposal from the citizen in question
+* `4` assignments have an improvement implemented by the citizen in question
 
-#### `B+` grades
+#### The `B` tier
 
-Citizens who both _propose and implement_ at least two (2) ideas will be awarded a mark of `B+` if all other weeks contain a proposal.
+**To qualify for this tier, all basic assignment objectives must be completed.**
 
-#### `B` grades
+##### `B+` grades
 
-Citizens who both _propose_ ideas for all weeks and _implement_ 1 idea will be awarded a mark of `B`.
+* All basic requirements for all assignments complete
+* `6` assignments contain a proposal from the citizen in question
+* `4` assignments have an improvement implemented by the citizen in question
 
-#### `B-` grades
+##### `B` grades
 
-Citizens who miss (2) proposals will be awarded a mark of `B-` if all other weeks contain them.
+* All basic requirements for all assignments complete
+* `4` assignments contain a proposal from the citizen in question
+* `4` assignments have an improvement implemented by the citizen in question
 
-### The `C` Tier
+##### `B-` grades
 
-(To qualify for this tier, all basic assignment objectives must be completely met.)
+* All basic requirements for all assignments complete
+* `4` assignments contain a proposal from the citizen in question
+* `2` assignments have an improvement implemented by the citizen in question
 
-As per the [the Basic Grade rule](#the-basic-grade), meeting 100% of a given assignment's objectives constitutes earning a `C` mark.
+#### The `C` Tier
 
-#### `C+` grades
+**To qualify for this tier, all basic assignment objectives must be completed.**
 
-Citizens who _propose_ at least (2) ideas will be awarded a mark of `C+`, given that all grading checks are met for all other weeks.
+##### `C+` grades
 
-### Grades lower than the Basic Grade
+* All basic requirements for all assignments complete
+* `2` assignments contain a proposal from the citizen in question
+* `1` assignment has an improvement implemented by the citizen in question
 
-There are three (3) instances that penalize evaluation:
+##### `C` grades
 
-1. Incomplete assignments (i.e. basic expectations are not fulfilled)
-2. Ignored assignments (i.e. not completed at all)
+* All basic requirements for all assignments complete
+
+#### Grades lower than the Basic Grade
+
+There are three (3) situations which penalize evaluation:
+
+1. `Incomplete` assignments (i.e. basic expectations are not fulfilled)
+2. `Ignored` assignments (i.e. no evidence of assignment attempt)
 3. Plagiarism or other inappropriate/dishonest academic behavior
 
-Each of these circumstances affects grades differently.
+Each of these circumstances affects evaluatoin differently.
 
 ##### Note about assignment completion
 
-This agreement operates on the understanding that circumstances may arise which interfere with completing assignments on time. Should a citizen need more time to complete work, they should file an issue on the repository containing the work which will be late.
+This agreement operates on the understanding that circumstances may arise which interfere with completing assignments on time. Should a citizen need more time to complete work, they should arrange an assignment extension with the Mayor.
 
-#### Incomplete assignments
+#### `Incomplete` assignments
 
 For every two (2) incomplete assignments, a citizen's course grade will be lowered by half a letter grade (e.g. _two_ (2) incomplete assignments would result in a mark of `C-`, et al.).
 
-#### Ignored assignments
+#### `Ignored` assignments
 
 If a citizen misses _any_ assignment, their course grade is lowered by a half letter grade for each (e.g. _one_ (1) assignment missed would result in a `C-`, et al.).
 
-#### Academic dishonesty
+#### Plagiarism or other inappropriate/dishonest academic behavior
 
 Citizens engaging in academically dishonest behavior will be assessed on a case-by-case basis, as circumstances and factors of a case vary widely. However, in situations where academic dishonesty is established, the variety of penalties might include (but are not limited to):
 
@@ -126,7 +140,7 @@ Citizens engaging in academically dishonest behavior will be assessed on a case-
 
 In severe cases, academic dishonesty may be referred to the supranational Alleghey College Honor Code Committee though these cases are rare (i.e. _almost_ non-existent). For questions of what qualitfies under the provision of "academic dishonesty" see the remainder of this document and the _Compass_.
 
-The rules, regulations, and consequences inherent in the Allegheny College process are located in the [Allegheny College Honor Code](http://catalog.allegheny.edu/content.php?catoid=43&navoid=1510).
+Steps in the Allegheny College process are located in the [Allegheny College Honor Code](http://catalog.allegheny.edu/content.php?catoid=43&navoid=1510).
 
 ### tl;dr: just give me a table
 
@@ -134,7 +148,15 @@ The table below summarizes the contract "tiers" above.
 
 |Final letter grade |Assignments completed |Proposals completed |Improvements implemented |
 |:------------------|:---------------------|:-------------------|:------------------------|
-|
+|A                  | 10                   |8                   |8                        |
+|A-                 | 10                   |8                   |4                        |
+|B+                 | 10                   |6                   |4                        |
+|B                  | 10                   |4                   |4                        |
+|B-                 | 10                   |4                   |2                        |
+|C+                 | 10                   |2                   |1                        |
+|C                  | 10                   |-                   |-                        |
+
+See [Grades lower than the basic grade](#grades-lower-than-the-basic-grade) for elaboration on letter grades below `C`.
 
 ### Assignment "bugs" and impact on grading
 
