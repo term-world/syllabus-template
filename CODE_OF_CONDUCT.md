@@ -63,13 +63,13 @@ The table below summarizes evaluative outcomes.
 
 |Final letter grade |Assignments completed |Proposals completed |Improvements implemented |
 |:------------------|:---------------------|:-------------------|:------------------------|
-|`A`                  | 10                   |8                   |8                        |
-|A-                 | 10                   |8                   |6                        |
-|B+                 | 10                   |6                   |4                        |
-|B                  | 10                   |4                   |4                        |
-|B-                 | 10                   |4                   |2                        |
-|C+                 | 10                   |2                   |1                        |
-|C                  | 10                   |-                   |-                        |
+|`A`                | 10                   |8                   |8                        |
+|`A-`               | 10                   |8                   |6                        |
+|`B+`               | 10                   |6                   |4                        |
+|`B`                | 10                   |4                   |4                        |
+|`B-`               | 10                   |4                   |2                        |
+|`C+`               | 10                   |2                   |1                        |
+|`C`                | 10                   |-                   |-                        |
 
 See [below](#grades-lower-than-the-basic-grade) for elaboration on letter grades below the `Basic Grade`.
 
