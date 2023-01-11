@@ -12,11 +12,11 @@ We're able to substantially alter the terms of this deal (see [the "Rules Rule"]
 
 ## Contract stipulations
 
-### The Basic Grade
+### The `Basic Grade`
 
 * All citizens who meet the basic covenants of this contract will earn an individual letter grade of `C` in this course
 
-You may ask why the basic grade is a `C` and _not a `B` or `B-`_.
+You may ask why the `Basic Grade` is a `C` and _not a `B` or `B-`_.
 
 Rising to the level of above-average or exceptional work relies on the just that: above-average or exceptional work. Merely completing the assignments maintains a kind of _status quo_. As our interest centers on making a _better_ world, this contract should provide incentives to think beyond mere sufficiency. As you'll see below, work that aspires to higher levels of reward involves doing the work of planning and (better yet) _making_ improvements.
 
@@ -33,7 +33,7 @@ Improvements are small additions to assignments that extend your service in `ter
 
 Each "improvable" assignment will suggest `10` potential improvements to choose from. Selecting from this list, improvements must be unique (i.e. two students cannot complete the same improvement).
 
-#### Proposing improvements
+#### Improvement `Proposal`s
 
 Improvements must go through a formal proposal process. To propose an assignment-related world improvment, citizens must use the `Improvement Proposal` template for a given GitHub repository's `Issues` which:
 
@@ -43,7 +43,7 @@ Improvements must go through a formal proposal process. To propose an assignment
     * the Office of the Mayor will provide suggestions and approval via the `Issue` filed to propose the improvement
   * must either incorporate suggested changes or provide rationale for _not_ incorporating them
 
-#### Implementing improvements
+#### Improvment `Implementation`
 
 Proposing an improvment allows a citizen to _implement_ (i.e. make) that improvement. To implement an improvement:
 
@@ -57,57 +57,21 @@ Proposing an improvment allows a citizen to _implement_ (i.e. make) that improve
 
 ### Grading
 
-#### The `A` tier
+**To qualify for grade levels beyond (and including) the `Basic Grade`, all basic assignment objectives must be completed.**
 
-**To qualify for this tier, all basic assignment objectives must be completed.**
+The table below summarizes evaluative outcomes.
 
-##### `A` grades
+|Final letter grade |Assignments completed |Proposals completed |Improvements implemented |
+|:------------------|:---------------------|:-------------------|:------------------------|
+|A                  | 10                   |8                   |8                        |
+|A-                 | 10                   |8                   |6                        |
+|B+                 | 10                   |6                   |4                        |
+|B                  | 10                   |4                   |4                        |
+|B-                 | 10                   |4                   |2                        |
+|C+                 | 10                   |2                   |1                        |
+|C                  | 10                   |-                   |-                        |
 
-* All basic requirements for all assignments complete
-* `8` assignments contain a proposal from the citizen in question
-* `8` assignments have an improvement implemented by the citizen in question
-
-##### `A-` grades
-
-* All basic requirements for all assignments complete
-* `8` assignments contain a proposal from the citizen in question
-* `6` assignments have an improvement implemented by the citizen in question
-
-#### The `B` tier
-
-**To qualify for this tier, all basic assignment objectives must be completed.**
-
-##### `B+` grades
-
-* All basic requirements for all assignments complete
-* `6` assignments contain a proposal from the citizen in question
-* `4` assignments have an improvement implemented by the citizen in question
-
-##### `B` grades
-
-* All basic requirements for all assignments complete
-* `4` assignments contain a proposal from the citizen in question
-* `4` assignments have an improvement implemented by the citizen in question
-
-##### `B-` grades
-
-* All basic requirements for all assignments complete
-* `4` assignments contain a proposal from the citizen in question
-* `2` assignments have an improvement implemented by the citizen in question
-
-#### The `C` Tier
-
-**To qualify for this tier, all basic assignment objectives must be completed.**
-
-##### `C+` grades
-
-* All basic requirements for all assignments complete
-* `2` assignments contain a proposal from the citizen in question
-* `1` assignment has an improvement implemented by the citizen in question
-
-##### `C` grades
-
-* All basic requirements for all assignments complete
+See [below](#grades-lower-than-the-basic-grade) for elaboration on letter grades below the `Basic Grade`.
 
 #### Grades lower than the Basic Grade
 
@@ -142,22 +106,6 @@ In severe cases, academic dishonesty may be referred to the supranational Allegh
 
 Steps in the Allegheny College process are located in the [Allegheny College Honor Code](http://catalog.allegheny.edu/content.php?catoid=43&navoid=1510).
 
-### tl;dr: just give me a table
-
-The table below summarizes the contract "tiers" above.
-
-|Final letter grade |Assignments completed |Proposals completed |Improvements implemented |
-|:------------------|:---------------------|:-------------------|:------------------------|
-|A                  | 10                   |8                   |8                        |
-|A-                 | 10                   |8                   |6                        |
-|B+                 | 10                   |6                   |4                        |
-|B                  | 10                   |4                   |4                        |
-|B-                 | 10                   |4                   |2                        |
-|C+                 | 10                   |2                   |1                        |
-|C                  | 10                   |-                   |-                        |
-
-See [Grades lower than the basic grade](#grades-lower-than-the-basic-grade) for elaboration on letter grades below `C`.
-
 ### Assignment "bugs" and impact on grading
 
 * In the event that there are "bugs" with grader criteria, Mayor will assess completion status with known issues in mind
@@ -166,24 +114,30 @@ See [Grades lower than the basic grade](#grades-lower-than-the-basic-grade) for 
 
 #### Bug bounty
 
-To mitigate future issues the Mayor has instituted a bug bounty. This is a way for you, the citizens, to surface issues with the world. 
+To mitigate future issues the Mayor has instituted a "bug bounty." This is a way for you, the citizens, to surface issues with the world. To report a "bug," a citizen must:
 
-* `TODO`: Determine required information and report format
+* complete a `Bug Report` template on a given repository's `Issues` tab
   
+A member of the Office of the Mayor may be in touch to ask about reproducing or observing the bug. Should the report be classified as a "bug," a scaled, appropriate non-letter grade reward will be awarded and announced to citizens at-large.
+
 ### The "Rules Rule"
 
-* Convenants in this contract may be changed following:
-  * a successful "Pull Request" made on this document _and_
-  * an open course discussion about the proposed change(s)
-* Any changes will then be put to a vote
+Convenants in this contract may be changed. This requires a citizen or group of citizens to:
+  * make a successful "Pull Request" on this document _and_
+  * lead an open course discussion about the proposed change(s)
+
+Any changes will then be put to a vote.
+
   * If a vote succeeds with a two-thirds majority (66%) outcome supporting the measure(s) proposed, the change will be made 
 
-* The above applies to all portions of the contract _except_ for the "Basic Grade" and this rule ("Rules Rule")
-* The Mayor reserves the following rights:
-  * the right to veto a proposed change if
-    * the change substantively alters the academic or course community integrity, _or_ 
-    * a rule is superseded via policies governed by the College's academic standards or handbook
-  * the right make unilateral changes that that uphold academic and community integrity
+The above applies to all portions of the contract _except_ for the `Basic Grade` and this rule ("Rules Rule").
+
+The Mayor reserves the following rights:
+
+  * the right to veto a proposed change if:
+    * the change substantively alters the academic or course community integrity or safety
+    * a rule is superseded by College policies or academic standards
+  * the right make unilateral changes that that uphold academic and community integrity or safety
 
 ### Participation
 
@@ -247,7 +201,7 @@ It is, however, also possible that a citizen many not feel well enough to attend
   * These hours _must be_ with the Mayor, and not a TL if intending to "catch up" on missed work
   * citizens who have missed a class may use TL office hour time to if they feel that they understand the content, but have questions about approach or methods       
 
-### Neighborhood contributions
+### Collaboration
 
 This course works due to the trust the Mayor places in each neighborhood becoming a collaborative home for all citizens. However, there is a fine line between collaboration and academic dishonesty. Here, we define that that line is and what general consequences (positive or negative) are under it.
 
@@ -283,9 +237,9 @@ To the above behaviors, the following are acceptable ways to assist:
 * Remind any individual of the orders in which certain commands need to be given
 * Watch any individual write code and help guide them, while still allowing room for the individual to think and figure out how to get around obstacles on their own
 
-#### Individual (collaborative) assignments
+#### Individual assignments
 
-While certain assignments should be achieved individually, they can be completed by collaboration. However, keep in mind that -- like "group" assigments, "collaborative" assignments:
+While certain assignments should be achieved individually citizens have access to collaborators. However, keep in mind that, like "group" assigments, in pursuit of individual assignments:
 
 * _Do_ assist others in your neighborhood, but _may not type directly on their keyboards_
   * _Do Not_ do this: if noticed repeatedly, this behavior may cause their neighborhood to lose neighborhood course points
@@ -312,7 +266,8 @@ This rule only applies to assignments classified as "Incomplete" assignments and
 * _Once_ during the semester, a citizen may open an Issue on a repository to which they'd like to submit missing work to regain credit for an assignment
   * This issue should indicate a citizen's interest in reclaiming credit for this assignment using the "Repair Rule"
 * This "Repair" issue must fill out the resulting form completely to request the ability to submit revisions
-* Citizens submitting a revision must remedy deficiencies listed in the most recent "Checkpoint" issue
+* Citizens submitting a revision must remedy deficiencies listed in the most recent "Assignment Progress" issue
   * Credit will be awarded as "complete" or "incomplete" according to the guidelines outlined in the [Grading](#Grading) section above
 * A citizen submitting a revision is allowed five (5) days to submit updated work
   * There is no limit on the number of `commit`s allowed during this time (i.e. citizens may `commit` as many times as they like)
+* This rule _does not apply_ to missed `Proposal`s or `Implementation`s.
