@@ -1,0 +1,21 @@
+on: [push]
+
+permissions: write-all
+
+jobs:
+  hello_arborist:
+    runs-on: ubuntu-latest
+    name: Introduce the Arborist!
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+      - name: Arborist
+        id: arborist
+        with:
+          branches: '["main"]'
+          min-approvals: 1
+          enforce-admins: false
+        uses: term-world/arborist@v0.1.0
+    env:
+      GITHUB_TOKEN: ${{ secrets.ARBORIST }}
