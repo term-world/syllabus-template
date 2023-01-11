@@ -35,7 +35,7 @@ Each "improvable" assignment will suggest `10` potential improvements to choose 
 
 #### Improvement `Proposal`s
 
-Improvements must go through a formal proposal process. To propose an assignment-related world improvment, citizens must use the `Improvement Proposal` template for a given GitHub repository's `Issues` which:
+Improvements must go through a formal proposal process. To propose an assignment-related world improvement, citizens must use the `Improvement Proposal` template for a given GitHub repository's `Issues` which:
 
   * responds to the templates questions/prompts
   * is completed by the start of a lab session of a given week
@@ -53,7 +53,7 @@ Proposing an improvement allows a citizen to _implement_ (i.e. make) that improv
    * open a `Pull Request` via the assignment repository
    * link the `Issue` containing the proposal to the created `Pull Request`
      * do this using the `Development` section of the `Issue` (located on the right sidebar)
-   * request review of at least `3` neighorhood members and `1` member of the Office of the Mayor
+   * request review of at least `3` neighborhood members and `1` member of the Office of the Mayor
 
 ### Grading
 
@@ -104,7 +104,7 @@ Citizens engaging in academically dishonest behavior will be assessed on a case-
 * disqualification from the `A` and/or `B` "tiers"
 * an automatic assessment of an "Ignored" assignment
 
-In severe cases, academic dishonesty may be referred to the supranational Alleghey College Honor Code Committee though these cases are rare (i.e. _almost_ non-existent). For questions of what qualitfies under the provision of "academic dishonesty" see the remainder of this document and the _Compass_.
+In severe cases, academic dishonesty may be referred to the supranational Allegheny College Honor Code Committee though these cases are rare (i.e. _almost_ non-existent). For questions of what qualifies under the provision of "academic dishonesty" see the remainder of this document and the _Compass_.
 
 Steps in the Allegheny College process are located in the [Allegheny College Honor Code](http://catalog.allegheny.edu/content.php?catoid=43&navoid=1510).
 
@@ -124,7 +124,7 @@ A member of the Office of the Mayor may be in touch to ask about reproducing or 
 
 ### The "Rules Rule"
 
-Convenants in this contract may be changed. This requires a citizen or group of citizens to:
+Covenants in this contract may be changed. This requires a citizen or group of citizens to:
   * make a successful "Pull Request" on this document _and_
   * lead an open course discussion about the proposed change(s)
 
@@ -137,7 +137,7 @@ The above applies to all portions of the contract _except_ for the `Basic Grade`
 The Mayor reserves the following rights:
 
   * the right to veto a proposed change if:
-    * the change substantively alters the academic or course community integrity or safety
+    * the change substantially alters the academic or course community integrity or safety
     * a rule is superseded by College policies or academic standards
   * the right to make unilateral changes that uphold academic and community integrity or safety
 
@@ -240,7 +240,7 @@ To the above behaviors, the following are acceptable ways to assist:
 
 #### Individual assignments
 
-While certain assignments should be achieved individually citizens have access to collaborators. However, keep in mind that, like "group" assigments, in pursuit of individual assignments:
+While certain assignments should be achieved individually citizens have access to collaborators. However, keep in mind that, like "group" assignments, in pursuit of individual assignments:
 
 * _Do_ assist others in your neighborhood, but _may not type directly on their keyboards_
   * _Do Not_ do this: if noticed repeatedly, this behavior may cause their neighborhood to lose neighborhood course points
