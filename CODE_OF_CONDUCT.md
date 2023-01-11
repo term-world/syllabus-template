@@ -227,7 +227,6 @@ For all neighborhood assignments, members will fill out a post-assignment assess
   * If you exhaust peer assistance, it's certain that your neighborhood feels the way you do; this is the time to get the attention of the instructor and/or TLs
 * Be nonjudgemental of others opinions
   * Often, the idea that feels the most radical can (at the very least) pivot your thinking toward a correct line of inquiry
-
 * _Do_ assist others in your neighborhood, but _may not type directly on their keyboards_
   * _Do Not_ do this: if noticed repeatedly, this behavior may cause their neighborhood to lose neighborhood course points
 * _Do_ use resources like [StackOverflow](https://stackoverflow.com/)
