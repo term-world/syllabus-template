@@ -1,6 +1,6 @@
 # CMPSC 100: Course Contract
 
-## A word from the Mayor
+## A word from the Mayor's Office
 
 We're building a world. That task shouldn't be taken on as a solitary or light burden. In many ways, this is always imperfect; we learn more as we _do_, and that process is rarely (i.e. never) linear or "clean." We benefit from being able to be a bit messy. You may gather from this statement that this approach cares about _process_ much more than _product_, though the latter is necessary. Following the various processes of `term-world` closely should yield a successful product. That written, production of output is a _basic_ expectation of the work we'll complete together.
 
@@ -14,7 +14,7 @@ However, there are manifold tasks that are often undercounted or _not_ counted i
 
 * All citizens who meet the covenants of this contract will earn an individual letter grade of `C` in this course
 
-You may ask: why is the basic grade is a `C` and not a `B` or `B-`. 
+You may ask why the basic grade is a `C` and _not a `B` or `B-`_. 
 
 Rising to the level of above-average or exceptional work relies on the just that -- above-average or exceptional work. Merely completing the assignments maintains a kind of _status quo_. As our interest centers on making a _better_ world, this contract should provide incentive to think beyond mere sufficiency. As you'll see below, work that aspires to higher levels of reward involves doing the work of planning and (better yet) _making_ improvements.
 
@@ -59,6 +59,10 @@ These proposals may be revisions to existing content or creation of wholly new c
 #### `B+` grades
 
 Citizens who both _propose and implement_ at least two (2) ideas will be awarded a mark of `B+` if all other weeks contain a proposal.
+
+#### `B` grades
+
+Citizens who both _propose_ ideas for all weeks and _implement_ 1 idea will be awarded a mark of `B`.
 
 #### `B-` grades
 
@@ -106,6 +110,14 @@ Citizens engaging in academically dishonest behavior will be assessed on a case-
 In severe cases, academic dishonesty may be referred to the supranational Alleghey College Honor Code Committee though these cases are rare (i.e. _almost_ non-existent). For questions of what qualitfies under the provision of "academic dishonesty" see the remainder of this document and the _Compass_.
 
 The rules, regulations, and consequences inherent in the Allegheny College process are located in the [Allegheny College Honor Code](http://catalog.allegheny.edu/content.php?catoid=43&navoid=1510).
+
+### tl;dr: just give me a table
+
+The table below summarizes the contract "tiers" above.
+
+|Final letter grade |Assignments completed |Proposals completed |Improvements implemented |
+|:------------------|:---------------------|:-------------------|:------------------------|
+|
 
 ### Assignment "bugs" and impact on grading
 
