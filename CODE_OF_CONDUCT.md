@@ -2,29 +2,42 @@
 
 ## A word from the Mayor's Office
 
-We're building a world. That task shouldn't be taken on as a solitary or light burden. In many ways, this is always imperfect; we learn more as we _do_, and that process is rarely (i.e. never) linear or "clean." We benefit from being able to be a bit messy. You may gather from this statement that this approach cares about _process_ much more than _product_, though the latter is necessary. Following the various processes of `term-world` closely should yield a successful product. That written, production of output is a _basic_ expectation of the work we'll complete together.
+We're building a world. 
 
-However, there are manifold tasks that are often undercounted or _not_ counted in traditional grading. That's why this community is evaluated on a _contract basis_, the terms of which are spelled out here. This document specifies your responsibilities and how that work will be rewarded. We're able to substantially alter the terms of this deal (see [the "Rules Rule"](#the-rules-rule) below), though we don't do so without participation in course governance.
+That task shouldn't be taken on as a solitary or easy burden. In many ways, world-bulding is always imperfect; we learn more as we _do_, and that process is rarely (i.e. never) linear or "clean." We benefit from being able to be messy and make many mistakes. You may gather from this statement our approach cares about _process_ much more than _product_, though the latter is necessary. Following the various processes of `term-world` closely should yield a successful product. That written, production is a _basic_ expectation of the work we'll complete together. Once the process is over, we need to have a result.
+
+However, there are manifold tasks involved that are often under- or _not_ counted in traditional grading. That's why community members are evaluated on a _contract basis_, the terms of which are spelled out here. This document specifies your responsibilities and how that work will be rewarded. 
+
+We're able to substantially alter the terms of this deal (see [the "Rules Rule"](#the-rules-rule) below), though we won't do so without participation in course governance.
 
 ## Contract stipulations
 
 ### The Basic Grade
 
-**To qualify for this tier, all basic assignment objectives must be completely met.**
+* All citizens who meet the basic covenants of this contract will earn an individual letter grade of `C` in this course
 
-* All citizens who meet the covenants of this contract will earn an individual letter grade of `C` in this course
+You may ask why the basic grade is a `C` and _not a `B` or `B-`_.
 
-You may ask why the basic grade is a `C` and _not a `B` or `B-`_. 
+Rising to the level of above-average or exceptional work relies on the just that: above-average or exceptional work. Merely completing the assignments maintains a kind of _status quo_. As our interest centers on making a _better_ world, this contract should provide incentives to think beyond mere sufficiency. As you'll see below, work that aspires to higher levels of reward involves doing the work of planning and (better yet) _making_ improvements.
 
-Rising to the level of above-average or exceptional work relies on the just that -- above-average or exceptional work. Merely completing the assignments maintains a kind of _status quo_. As our interest centers on making a _better_ world, this contract should provide incentive to think beyond mere sufficiency. As you'll see below, work that aspires to higher levels of reward involves doing the work of planning and (better yet) _making_ improvements.
+### Improvements
+
+**Opportunities to implement improvements will begin during the `Bodega` assignment.**
+
+Improvements serve as a way to:
+
+* gain extra practice with course concepts
+* demonstrate an above-average level of effort
+
+Each "improvable" assignment will suggest `10` potential improvements to choose from. Improvements 
 
 ### The `A` tier
 
-**To qualify for this tier, all basic assignment objectives must be completely met.**
+**To qualify for this tier, all basic assignment objectives must be completed.**
 
 Citizens who take the opportunity to both provide _and_ implement substantive improvements to assignment content qualify for this contract tier. In order to qualify for this tier, citizens must:
 
-* propose an assignment-related world improvment in each week's repository using the `Improvement Proposal` Issue template on GitHub which:
+* propose an assignment-related world improvment in each available week's repository using the `Improvement Proposal` `Issue` template on GitHub which:
   * completes all document prompts
   * must be done by start of a lab session (Friday) of a given week
   * must be approved _in writing_ by the Mayor by the end of the lab session
@@ -32,6 +45,8 @@ Citizens who take the opportunity to both provide _and_ implement substantive im
   * must either incorporate or provide rationale for _not_ incorporating suggestions from the Mayor's Office
     * this work is due by the assignment deadline (Sunday of each week)
 * implement the improvement proposed by the assignment deadline
+
+This proposal _must be linked_ to the `Pull Request` in which the work was completed.
 
 These proposals may be revisions to existing content or creation of wholly new content. In many cases, executing planned improvements will require some consultation with either community Technical Leaders _or_ the Mayor. Citizens wishing to achieve this tier should expect to avail themselves of the resources available, including office hours and other forms of correspondence.
 
@@ -43,7 +58,7 @@ Citizens who do not meet the above requirements for two (2) weeks will be awarde
 
 ### The `B` tier
 
-(To qualify for this tier, all basic assignment objectives must be completely met.)
+**To qualify for this tier, all basic assignment objectives must be completed.**
 
 Citizens who take the opportunity to both provide substantive improvements to assignment content qualify for this contract tier. In order to qualify for this tier, citizens must:
 
@@ -53,6 +68,8 @@ Citizens who take the opportunity to both provide substantive improvements to as
   * must be recognized _in writing_ by the Mayor by the end of the lab session
   * must either incorporate or provide rationale for _not_ incorporating suggested revisions
     * this work is due by the assignment deadline (Sunday of each week)
+
+This proposal _must be linked_ to the `Pull Request` in which the work was completed.
 
 These proposals may be revisions to existing content or creation of wholly new content. Proposals must be completed for all weeks unless a week's content specifies otherwise in the accompanying assignment `README`. 
 
@@ -167,7 +184,7 @@ As several of you note in your suggestions for this contract, it is good practic
 
 #### Communicating in your neighborhoods
 
-The Office of the Mayor expects neighborhoods to use their GitHub neighborhood pages to coordinate working hours on desired platforms 
+The Office of the Mayor expects neighborhoods to use their GitHub neighborhood pages to coordinate working hours.
 
 #### Course platforms
 
