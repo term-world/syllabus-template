@@ -9,9 +9,9 @@ Here you can find the tools needed to traverse and use `term-world`.
 - [SSH Keys](#ssh-keys)
 - [Getting Content](#getting-content)
 - [Common Commands](#common-commands)
-  * [1. cd](#1-cd)
-  * [2. ls](#2-ls)
-  * [3. python](#3-python)
+  * [cd](#cd)
+  * [ls](#ls)
+  * [python](#python)
 - [Checking Out Branches](#checking-out-branches)
 - [Pulling and Updating Content](#pulling-and-updating-content)
 - [Evaluating Content with Gatorgrade](#evaluating-content-with-gatorgrade)
@@ -54,7 +54,7 @@ After you enter your password made with the `SSH` key the assignment will have b
 
 In order to navigate around the files and folders during each project in `term-world`, there are a few commands you will need.
 
-### 1. cd
+### cd
 
 `cd` is short for "change directory"; this command allows you to move to different folders in the directory `tree`.
 
@@ -86,7 +86,7 @@ dluman@term-world:~/A/B$
 
 Here we can see that we are in folder `B`, which is inside of folder `A`, which is in our _home_ directory (which is indicated by the `~`).
 
-### 2. ls
+### ls
 
 Anytime you wish to "list" out the contents of a given folder you can use the command `ls`; this will list out all folder and files in a given folder. If we were to run the `ls` command from folder `A`, for example:
 
@@ -97,7 +97,7 @@ B  C
 
 Here we can see that the two folders belonging to `A` (`B` & `C`) are produced as output from the `ls` command. This is handy for knowing what navigation options are available to you at any time!
 
-### 3. python
+### python
 
 If you want to run the code inside of any Python file (which are generally indicated with a `.py` extension at the end of the file name), you simply use the `python` command. For this particular command, you need to follow the command itself with the full file name, all on a single line. For instance, if I wanted to run a program called `Box.py`, I would use the command:
 
