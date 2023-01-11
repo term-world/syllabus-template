@@ -9,13 +9,13 @@ Here you can find the tools needed to traverse and use `term-world`.
 - [SSH Keys](#ssh-keys)
 - [Getting Content](#getting-content)
 - [Common Commands](#common-commands)
-  * [1. `cd`](#1--cd-)
-  * [2. `ls`](#2--ls-)
-  * [3. `python`](#3--python-)
+  * [1. cd](#1-cd)
+  * [2. ls](#2-ls)
+  * [3. python](#3-python)
 - [Checking Out Branches](#checking-out-branches)
-- [Pulling & Updating Content](#pulling---updating-content)
-- [Evaluating Content with `gatorgrade`](#evaluating-content-with--gatorgrade-)
-- [Submitting/Saving Content](#submitting-saving-content)
+- [Pulling and Updating Content](#pulling-and-updating-content)
+- [Evaluating Content with Gatorgrade](#evaluating-content-with-gatorgrade)
+- [Submitting or Saving Content](#submitting-or-saving-content)
   * [Merging Content](#merging-content)
 - [Collaborative reflections](#collaborative-reflections)
 - [Making an improvement proposal](#making-an-improvement-proposal)
@@ -54,7 +54,7 @@ After you enter your password made with the `SSH` key the assignment will have b
 
 In order to navigate around the files and folders during each project in `term-world`, there are a few commands you will need.
 
-### 1. `cd`
+### 1. cd
 
 `cd` is short for "change directory"; this command allows you to move to different folders in the directory `tree`.
 
@@ -86,7 +86,7 @@ dluman@term-world:~/A/B$
 
 Here we can see that we are in folder `B`, which is inside of folder `A`, which is in our _home_ directory (which is indicated by the `~`).
 
-### 2. `ls`
+### 2. ls
 
 Anytime you wish to "list" out the contents of a given folder you can use the command `ls`; this will list out all folder and files in a given folder. If we were to run the `ls` command from folder `A`, for example:
 
@@ -97,7 +97,7 @@ B  C
 
 Here we can see that the two folders belonging to `A` (`B` & `C`) are produced as output from the `ls` command. This is handy for knowing what navigation options are available to you at any time!
 
-### 3. `python`
+### 3. python
 
 If you want to run the code inside of any Python file (which are generally indicated with a `.py` extension at the end of the file name), you simply use the `python` command. For this particular command, you need to follow the command itself with the full file name, all on a single line. For instance, if I wanted to run a program called `Box.py`, I would use the command:
 
@@ -135,7 +135,7 @@ git branch
 
 This will display your current branch as well as any other branch that may have been created in this repository.
 
-## Pulling & Updating Content
+## Pulling and Updating Content
 
 When changes are made to `main` by you or your group members, you will need to `pull` those changes to `term-world` from `GitHub`. In order to pull new content from `main` or any other branch you first need to use the `git checkout` command to switch to the branch you want to update. Once there, simply use the command:
 
@@ -143,7 +143,7 @@ When changes are made to `main` by you or your group members, you will need to `
 git pull
 ```
 
-## Evaluating Content with `gatorgrade`
+## Evaluating Content with Gatorgrade
 
 Each week's repository is outfitted with a grader that can be used to evaluate your work for the week. In order to run the this grader for a given week's work, you'll need to first navigate to the "root" folder of the assignment (that is, the base folder containing a given assignment's work, such as `house`):
 
@@ -186,7 +186,7 @@ Once the grader has finished running (it may take a couple minutes) you'll be pr
 
 As you can tell, there are some checks which have been satisfied, though there are many which have not. Be sure to have *all* of the required checks completed by the due date in order to receive credit for assignment completion!
 
-## Submitting/Saving Content
+## Submitting or Saving Content
 
 In order to save and submit your work you will first have to locate the "root" folder of the assignment using `cd` commands. Once there you need to tell `GitHub` that you want to upload all files in this folder with the command:
 
