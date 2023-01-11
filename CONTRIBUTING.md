@@ -224,6 +224,10 @@ To resolve said conflicts, you'll need to delete the portion of code you don't w
 
 Once complete, click `Mark as resolved` followed by `Commit merge`, and the changes on the branch will be joined with the `main` branch!
 
+### Collaborative reflection
+
+On many group assignments there will be a `reflection` file. After the assignment is completed, each member of your group will respond to questions posed about the assignment. To do this your group should create one branch called `reflection` to capture your work on this section of the assignment; all members should contribute to the same branch.
+
 ## Making an improvement proposal
 
 This assignment begins your opportunity to propose and improve the world of `term-world` at-large. For this assignment, proposals may include making graphics to improve the `bodega` site experience, creating new items or actions in the `traffic-circle` itself or another assignment-related improvement not contemplated in the prior narrow categories.
