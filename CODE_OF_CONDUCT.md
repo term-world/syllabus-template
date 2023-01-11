@@ -168,7 +168,7 @@ The Office of the Mayor expects neighborhoods to use their GitHub neighborhood p
 
 On course platforms used for the duration of the semester:
 
-* Use all platforms for appropiate class reasons 
+* Use all platforms for appropriate class reasons
 * Follow the instructions while using the platforms
 * Keeping "up-to-date" with platforms may require seeking additional extra-curricular knowledge
   * For example, using Markdown in Discord
@@ -194,9 +194,9 @@ When using office hours:
 
 Especially in precarious times like those in which we find ourselves, I _cannot_ and _will not_ require you to be physically present for class sessions. However, if you feel well and comfortable, I (and your peers) ask that you attend class.
 
-As many of your note, this isn't something that I provide grading criteria for. I don't really have an interest in directly grading attendance. However, _not attending_ traditionally shows up in final products and, thereby, grades. It's important to remember that attendance and participation are closely related. Not doing either severely restricts your ability to succeed in the course.
+As many of you note, this isn't something that I provide grading criteria for. I don't really have an interest in directly grading attendance. However, _not attending_ traditionally shows up in final products and, thereby, grades. It's important to remember that attendance and participation are closely related. Not doing either severely restricts your ability to succeed in the course.
 
-It is, however, also possible that a citizen many not feel well enough to attend even a portion of a remote course. In these situations, citizens must:
+It is, however, also possible that a citizen may not feel well enough to attend even a portion of a remote course. In these situations, citizens must:
 
 * Use their neighborhood as a source of knowledge for given content missed
 * Failing the neighborhood's ability to "crowd-source" an answer, citizens should [use office hours](#Using-office-hours) to make up the gap in understanding
@@ -254,7 +254,7 @@ This course features the assistance of several peer educators that the departmen
 These people are not course resources in the sense that they are inanimate machines (also unlike your charitable Mayor). You agree to:
 
 * Treat them courteously and with respect
-* Not make strict demands of them; their enagagement with the course is a privilege, not a right
+* Not make strict demands of them; their engagement with the course is a privilege, not a right
 * Recognize that their feedback won't give you the "answer"; like instruction in this course, they're excellent resources to help you _reason_
 * Consider interaction with TLs should attain the same level as interaction with the instructor
 
