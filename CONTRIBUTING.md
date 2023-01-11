@@ -7,6 +7,18 @@ Here you can find the tools needed to traverse and use `term-world`.
 # Table of Contents
 
 1. [SSH Keys](##SSHKeys)
+2. [Getting Content](##GettingContent)
+3. [Common Commands](##CommonCommands)
+4. [Checking Out Branches](##CheckingOutBranches)
+5. [Pulling & Updating Content](##Pulling&UpdatingContent)
+6. [Evaluating Content with `gatorgrade`](##EvaluatingContentwith`gatorgrade`)
+7. [Submitting/Saving Content](##Submitting/SavingContent)
+8. [Merging Content](##MergingContent)
+9. [Collaborative reflections](##Collaborativereflections)
+10. [Making an improvement proposal](##Makinganimprovement proposal)
+11. [Backup Policy](##BackupPolicy)
+
+
 
 ## SSH Keys
 
@@ -228,7 +240,7 @@ To resolve said conflicts, you'll need to delete the portion of code you don't w
 
 Once complete, click `Mark as resolved` followed by `Commit merge`, and the changes on the branch will be joined with the `main` branch!
 
-## Collaborative reflection
+## Collaborative reflections
 
 On many group assignments there will be a `reflection` file. After the assignment is completed, each member of your group will respond to questions posed about the assignment. To do this your group should create one branch called `reflection` to capture your work on this section of the assignment; all members should contribute to the same branch.
 
@@ -246,7 +258,7 @@ To make an improvement proposal, you must _create an issue_ on this repository. 
 
 **If you are not following an improvement suggestion you need to have your improvement suggestion checked by the professor before proceeding.**
 
-## Backup Policy Reminder
+## Backup Policy 
 
 **While we may use this server to store code, you are responsible for using GitHub as your main backup.**
 
