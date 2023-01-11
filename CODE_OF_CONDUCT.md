@@ -4,9 +4,9 @@
 
 We're building a world. 
 
-That task shouldn't be taken on as a solitary or easy burden. In many ways, world-bulding is always imperfect; we learn more as we _do_, and that process is rarely (i.e. never) linear or "clean." We benefit from being able to be messy and make many mistakes. You may gather from this statement our approach cares about _process_ much more than _product_, though the latter is necessary. Following the various processes of `term-world` closely should yield a successful product. That written, production is a _basic_ expectation of the work we'll complete together. Once the process is over, we need to have a result.
+That task shouldn't be taken on as a solitary or easy burden. In many ways, world-building is always imperfect; we learn more as we _do_, and that process is rarely (i.e. never) linear or "clean." We benefit from being able to be messy and make many mistakes. You may gather from this statement our approach cares about _process_ much more than _product_, though the latter is necessary. Following the various processes of `term-world` closely should yield a successful product. That written, production is a _basic_ expectation of the work we'll complete together. Once the process is over, we need to have a result.
 
-However, there are manifold tasks involved that are often under- or _not_ counted in traditional grading. That's why community members are evaluated on a _contract basis_, the terms of which are spelled out here. This document specifies your responsibilities and how that work will be rewarded. 
+However, there are manifold tasks involved that are often under-counted in traditional grading. That's why community members are evaluated on a _contract basis_, the terms of which are spelled out here. This document specifies your responsibilities and how that work will be rewarded. 
 
 We're able to substantially alter the terms of this deal (see [the "Rules Rule"](#the-rules-rule) below), though we won't do so without participation in course governance.
 
@@ -31,7 +31,7 @@ Improvements are small additions to assignments that extend your service in `ter
 * gain extra practice with course concepts
 * demonstrate an above-average level of effort
 
-Each "improvable" assignment will suggest `10` potential improvements to choose from. Selecting from this list, improvements must be unique (i.e. two students cannot complete the same improvement).
+Each "improvable" assignment will suggest `10` potential improvements to choose from. Selecting from this list, improvements must be unique (i.e. two students in the same neighborhood cannot complete the same improvement).
 
 #### Improvement `Proposal`s
 
@@ -43,9 +43,9 @@ Improvements must go through a formal proposal process. To propose an assignment
     * the Office of the Mayor will provide suggestions and approval via the `Issue` filed to propose the improvement
   * must either incorporate suggested changes or provide rationale for _not_ incorporating them
 
-#### Improvment `Implementation`
+#### Improvement `Implementation`
 
-Proposing an improvment allows a citizen to _implement_ (i.e. make) that improvement. To implement an improvement:
+Proposing an improvement allows a citizen to _implement_ (i.e. make) that improvement. To implement an improvement:
 
    * create a separate `branch` for improvement work, which features an appropriate title
    * make all relevant changes on that `branch`
@@ -81,7 +81,7 @@ There are three (3) situations which penalize evaluation:
 2. `Ignored` assignments (i.e. no evidence of assignment attempt)
 3. Plagiarism or other inappropriate/dishonest academic behavior
 
-Each of these circumstances affects evaluatoin differently.
+Each of these circumstances affects evaluation differently.
 
 ##### Note about assignment completion
 
@@ -139,7 +139,7 @@ The Mayor reserves the following rights:
   * the right to veto a proposed change if:
     * the change substantively alters the academic or course community integrity or safety
     * a rule is superseded by College policies or academic standards
-  * the right make unilateral changes that that uphold academic and community integrity or safety
+  * the right to make unilateral changes that uphold academic and community integrity or safety
 
 ### Participation
 
