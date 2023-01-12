@@ -43,11 +43,11 @@ Many folks often find that time dedicated to completing this work during the wee
 |Day(s) of Week            |Time                |
 |--------------------------|--------------------|
 |In-office                                      |
-|Monday                    |12:30 - 15:00       |
-|Tuesday                   |11:00 - 13:00       |
-|Wednesday                 |13:30 - 15:00       |
-|Thursday                  |11:00 - 13:00       |
-|Friday                    |12:00 - 14:00       |
+|Monday                    |`TODO`       |
+|Tuesday                   |`TODO`       |
+|Wednesday                 |`TODO`       |
+|Thursday                  |`TODO`       |
+|Friday                    |`TODO`       |
 |`term-world` Alive! (streamed on Discord)      |
 |Sunday                    |15:00 - 17:00       |
 
