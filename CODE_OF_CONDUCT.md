@@ -262,7 +262,7 @@ In the event that a conflict arises with a TL, please message the course instruc
 
 ### The "Repair Rule" (i.e. Assignment Revision)
 
-This rule only applies to assignments classified as "Incomplete" assignments and _not "Ignored" assignments.
+This rule only applies to assignments classified as "Incomplete" assignments and _not_ "Ignored" assignments.
 
 * _Once_ during the semester, a citizen may open an Issue on a repository to which they'd like to submit missing work to regain credit for an assignment
   * This issue should indicate a citizen's interest in reclaiming credit for this assignment using the "Repair Rule"
