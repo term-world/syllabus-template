@@ -9,7 +9,7 @@ This resource contains the rules that we need to agree to in order to make that 
 ## Important resources
 
 * [Office hours schedule](https://chompe.rs/office-hours)
-* [Course Calendar](https://chompe.rs/fall-2022-100-schedule)
+* [Course Calendar](https://chompe.rs/100-schedule)
 * [Technical Leader directory](https://www.cs.allegheny.edu/teaching/technicalleaders/)
 * [Course video playlist](https://chompe.rs/term-world-videos)
 ## Syllabus
@@ -27,7 +27,7 @@ This resource contains the rules that we need to agree to in order to make that 
 |Monday, Wednesday, Friday |10:00 - 10:50 |Work time  |Alden 101                        |
 |Friday                    |14:30 - 16:30 |Work time  |Alden 101                        |
 
-A lot of our time will be dedicated to building! In fact, nearly all of it appears to be allocated that way. That this is true _doesn't_ mean that these sessions are things to skip. Each of these meetings will feature significant support either via community Technical Leaders, the Mayor themself, or your fellow neighborhood members. 
+A lot of our time will be dedicated to building! In fact, nearly all of it appears to be allocated that way. That this is true _doesn't_ mean that course sessions are meant to be skipped. Each of these meetings will feature significant support either via community Technical Leaders, the Mayor themself, or your fellow neighborhood members. 
 
 Many folks often find that time dedicated to completing this work during the week offers the right mix of help and fellowship that make the labor palatable. (Plus, the Mayor doesn't like to be lonely.)
 
@@ -68,7 +68,7 @@ Your attendance at these sessions is _not_ mandatory.
 * Prerequisite knowledge: Elementary algebra
 * Distribution requirements: `ME`,`SP`
 
-### Less canonical, but still official, course description
+### Less canonical (but still very official) Mayoral Stance
 
 Some interpretations of the subject treat "computer science" as a kind of sacrosanct technical knowledge. And that is somewhat true: to some, it serves as a characterization of how skills learned as part of how the discipline is exercised in service of implementing or achieving a technical goal. There are certainly technical constructs that programmers have to obey and rules that, while somewhat pliable, are relatively inflexible. Undoubtedly, you'll encounter frustration in this course with conventions arising from technical agreements which may seem arbitrary.
 
@@ -92,7 +92,7 @@ These platforms are for our use only. To use them, you'll need to register and b
 
 #### Media
 
-Before each week begins, I will assign a group of short, topic-focused videos to review. These videos will normally contain activities that you complete in parallel with or after watching material. Video content is meant to support, but not substitute for, topics discussed and exercised that week. I will provide links to participate in or to access activities or supplmentary material via both our [course calendar](https://chompe.rs/fall-2022-100-schedule) and Discord.
+Before each week begins, I will assign a group of short, topic-focused videos to review. These videos will normally contain activities that you complete in parallel with or after watching material. Video content is meant to support, but not substitute for, topics discussed and exercised that week. I will provide links to participate in or to access activities or supplmentary material via both our [course calendar](https://chompe.rs/100-schedule) and Discord.
 
 ### Learning objectives
 
@@ -117,13 +117,21 @@ All course assignments are assigned and evaluated using the GitHub platform. I w
 
 > I _will not_ grade work left on the `term-world` server. 
 
-In fact, _I can't_.
+In fact, _I can't_. This means that all the work that you complete below must be submitted to GitHub _by the due date and time_. For more information on how this affects course standing, see the [Course Contract](CODE_OF_CONDUCT.md).
 
-##### Reflections
+##### Workbook projects
 
-You will be asked at various points to reflect on ways you can connect your work to general course concepts or to understanding your progress in the course as a whole.
+Each Friday, you will be assigned a series of videos that correspond with various short, guided projects to complete for our Monday class session. This Monday session is dedicated to questions and a brief walk-through of the project, pointing out key aspects that will become important for your work on Weekly Projects (see below).
 
-When reflections are assigned, they will be accompanied with a prompt. All reflections will be distributed in the materials that we `clone` during a given week of the course.
+The Workbook is assessed on a completion basis, meaning that you are expected to complete each short project.
+
+##### Weekly projects
+
+At the start of a given week, a larger week-long project will be assigned to you and/or your neighborhood. These constitute the bulk of the work of the course, and are governed by provisions in the [Course Contract](CODE_OF_CONDUCT.md).
+
+###### Briefing Reports
+
+These assignments will ask you to report on your work for the week in a structured format that may require some reflective thinking. These writing assignments arrive bundled with and are specific to a given Weekly Project.
 
 ##### Course project
 
