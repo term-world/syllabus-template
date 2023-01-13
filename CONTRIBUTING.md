@@ -107,6 +107,58 @@ python Box.py
 
 Of course, this command has to be run in the directory that houses the Python file. `ls` is helpful for knowing if you're in the right place to run the `python` command!
 
+## Inventory
+
+`inventory` is a command that is used to carry different objects around `term-world`. You can only carry `10` objects with `inventory` (objects have varying weights).  In order to check whats in your inventory use the command:
+
+```
+inventory
+```
+
+You will get:
+
+```
+                  CliV3's inventory                   
+┏━━━━━━━━━━━━┳━━━━━━━━━━━━┳━━━━━━━━━━━━┳━━━━━━━━━━━━┳━━━━━━━━┓
+┃ Item name  ┃ Item count ┃ Item file  ┃ Consumable ┃ Volume ┃
+┡━━━━━━━━━━━━╇━━━━━━━━━━━━╇━━━━━━━━━━━━╇━━━━━━━━━━━━╇━━━━━━━━┩
+│ Tomato     │ 1          │ Tomato.py  │ False      │ 3      │
+└────────────┴────────────┴────────────┴────────────┴────────┘
+Your current total volume limit is: 3/10
+```
+
+### get 
+
+`get` picks up an object from your current location. Make sure to use the **file name**.
+
+```
+get Tomato.py
+```
+
+### use
+
+If the object is `Consumable`, you can use the `use` command to "use" the object. If It does not have any function then `use` just removes the file. Only uses `1` object at a time.
+
+```
+use Tomato
+```
+
+### remove
+
+`remove` gets rid of an object from your `inventory`. You first use the name of the object, then you give the amount of objects you want to delete (If no amount is given then 1 is removed). If you give an amount higher then you have, all objects are removed.
+
+```
+remove Tomato 2
+```
+
+### drop
+
+`drop` puts the object in your current location. You first use the name of the object, then you give the amount of objects you want to drop (If no amount is given then 1 is dropped). If you give an amount higher then you have, all objects are droped.
+
+```
+inventory drop Tomato 2
+```
+
 ## Checking Out Branches
 
 When working on `term-world` content, you'll often need to create a new test `branch` in order to get get feedback and make corrections before altering the `main` branch's code. 
