@@ -12,6 +12,11 @@ Here you can find the tools needed to traverse and use `term-world`.
   * [cd](#cd)
   * [ls](#ls)
   * [python](#python)
+- [Inventory](#inventory)
+  * [get](#get)
+  * [use](#use)
+  * [remove](#remove)
+  * [drop](#drop)
 - [Checking Out Branches](#checking-out-branches)
 - [Pulling and Updating Content](#pulling-and-updating-content)
 - [Evaluating Content with Gatorgrade](#evaluating-content-with-gatorgrade)
@@ -156,7 +161,7 @@ remove Tomato 2
 `drop` puts the object in your current location. You first use the name of the object, then you give the amount of objects you want to drop (If no amount is given then 1 is dropped). If you give an amount higher then you have, all objects are droped.
 
 ```
-inventory drop Tomato 2
+drop Tomato 2
 ```
 
 ## Checking Out Branches
