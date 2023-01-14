@@ -11,6 +11,7 @@ Here you can find the tools needed to traverse and use `term-world`.
 - [Common Commands](#common-commands)
   * [cd](#cd)
   * [ls](#ls)
+  * [tree](#tree)
   * [python](#python)
 - [Inventory](#inventory)
   * [get](#get)
