@@ -102,6 +102,10 @@ B  C
 
 Here we can see that the two folders belonging to `A` (`B` & `C`) are produced as output from the `ls` command. This is handy for knowing what navigation options are available to you at any time!
 
+### tree
+
+The `tree` command will display the contents of the files and subfiles at your current location. This command is very useful for when you want to see all the files without using `ls` multiple times.
+
 ### python
 
 If you want to run the code inside of any Python file (which are generally indicated with a `.py` extension at the end of the file name), you simply use the `python` command. For this particular command, you need to follow the command itself with the full file name, all on a single line. For instance, if I wanted to run a program called `Box.py`, I would use the command:
@@ -134,7 +138,7 @@ Your current total volume limit is: 3/10
 
 ### get 
 
-`get` picks up an object from your current location. Make sure to use the **file name**.
+`get` picks up an object from your current location. This commands destroys the objects in its current location. Make sure to use the **file name**.
 
 ```
 get Tomato.py
@@ -161,8 +165,18 @@ remove Tomato 2
 `drop` puts the object in your current location. You first use the name of the object, then you give the amount of objects you want to drop (If no amount is given then 1 is dropped). If you give an amount higher then you have, all objects are droped.
 
 ```
-drop Tomato 2
+drop Tomato 3
 ```
+
+This command will drop `3` `Tomato.py` files. This is how the files would be dropped:
+
+```
+Tomato.py
+Tomato1.py
+Tomato2.py
+```
+
+If any more files are dropped they will continue to follow this numbering pattern. Picking up any of these files will give you a `Tomato` in your inventory.
 
 ## Checking Out Branches
 
