@@ -54,8 +54,6 @@ git clone COPIED-LINK-HERE
 
 After you enter your password made with the `SSH` key the assignment will have been cloned into `term-world`.
 
-**NOTICE: If the `workshop` project has already been completed then all future assignment will be cloned into the `workshop` folder**
-
 ## Common Commands
 
 In order to navigate around the files and folders during each project in `term-world`, there are a few commands you will need.
@@ -64,44 +62,44 @@ In order to navigate around the files and folders during each project in `term-w
 
 `cd` is short for "change directory"; this command allows you to move to different folders in the directory `tree`.
 
-![level-of-tree-data-structure](https://user-images.githubusercontent.com/112453830/211088342-bc006cc2-4e62-42c4-8be0-90e2749c2a54.png)
+![House assignment as tree structure from top to bottom with home directory at top](https://raw.githubusercontent.com/term-world/syllabus-template/media/img/TW%20-%20Folder%20Tree.png)
 
-For Example, if we were in folder `A` of the above directory `tree` we would use the following command to move to folder `B`:
+For Example, if we were in folder `house` of the above directory `tree` we would use the following command to move to the `living-room` folder:
 
 ```
-cd B
+cd living-room
 ```
 
-Then if we wanted to go back to folder `A` we would use the command:
+Then if we wanted to go back to folder `house` we would use the command:
 
 ```
 cd ..
 ```
 
-We can even chain these commands together to move multiple folders at a time, such as if we wanted to move directly to folder `D` from folder `A`:
+We can even chain these commands together to move multiple folders at a time, such as if we wanted to move directly to folder `dining-room` from folder `house`:
 
 ```
-cd B/D
+cd living-room/dining-room
 ```
 
 In order to check where you are in `term-world` you can always check your `command prompt` from the text right before your cursor. If we were in folder `B` for example, we might see:
 
 ```
-dluman@term-world:~/A/B$ 
+cliv3@term-world:~/house/living-room$ 
 ```
 
-Here we can see that we are in folder `B`, which is inside of folder `A`, which is in our _home_ directory (which is indicated by the `~`).
+Here we can see that we are in folder `living-room`, which is inside of folder `house`, which is in our _home_ directory (which is indicated by the `~`).
 
 ### ls
 
 Anytime you wish to "list" out the contents of a given folder you can use the command `ls`; this will list out all folder and files in a given folder. If we were to run the `ls` command from folder `A`, for example:
 
 ```
-dluman@term-world:~/A$ ls
-B  C
+cliv3@term-world:~/house/living-room$ ls
+hallway  dining-room
 ```
 
-Here we can see that the two folders belonging to `A` (`B` & `C`) are produced as output from the `ls` command. This is handy for knowing what navigation options are available to you at any time!
+Here we can see that the two folders belonging to `living-room` (`hallway` & `dining-room`) are produced as output from the `ls` command. This is handy for knowing what navigation options are available to you at any time.
 
 ### tree
 
@@ -128,7 +126,7 @@ inventory
 You will get:
 
 ```
-                  CliV3's inventory                   
+                  cliv3's inventory                   
 ┏━━━━━━━━━━━━┳━━━━━━━━━━━━┳━━━━━━━━━━━━┳━━━━━━━━━━━━┳━━━━━━━━┓
 ┃ Item name  ┃ Item count ┃ Item file  ┃ Consumable ┃ Volume ┃
 ┡━━━━━━━━━━━━╇━━━━━━━━━━━━╇━━━━━━━━━━━━╇━━━━━━━━━━━━╇━━━━━━━━┩
