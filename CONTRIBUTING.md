@@ -44,7 +44,7 @@ Head to GitHub and:
 * ensure that `SSH` is selected
 * copy the link that appears in the window below
 
-![github](https://user-images.githubusercontent.com/112453830/211095389-01b81e00-89cb-40be-a306-57bea4e1fb7e.png)
+![Location of clone link under green button at upper right corner](https://raw.githubusercontent.com/term-world/syllabus-template/media/img/TW%20-%20Clone%20link%20diagram.png)
 
 Once you've copied this link, navigate to your terminal window, go to the file that you clone the repository into, then with your copied link enter the command:
 
