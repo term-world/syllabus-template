@@ -54,8 +54,6 @@ git clone COPIED-LINK-HERE
 
 After you enter your password made with the `SSH` key the assignment will have been cloned into `term-world`.
 
-**NOTICE: If the `workshop` project has already been completed then all future assignment will be cloned into the `workshop` folder**
-
 ## Common Commands
 
 In order to navigate around the files and folders during each project in `term-world`, there are a few commands you will need.
@@ -64,7 +62,7 @@ In order to navigate around the files and folders during each project in `term-w
 
 `cd` is short for "change directory"; this command allows you to move to different folders in the directory `tree`.
 
-![level-of-tree-data-structure](https://user-images.githubusercontent.com/112453830/211088342-bc006cc2-4e62-42c4-8be0-90e2749c2a54.png)
+![House assignment as tree structure from top to bottom with home directory at top]()
 
 For Example, if we were in folder `A` of the above directory `tree` we would use the following command to move to folder `B`:
 
