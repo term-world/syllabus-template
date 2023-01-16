@@ -92,7 +92,7 @@ Here we can see that we are in folder `living-room`, which is inside of folder `
 
 ### ls
 
-Anytime you wish to "list" out the contents of a given folder you can use the command `ls`; this will list out all folder and files in a given folder. If we were to run the `ls` command from folder `A`, for example:
+Anytime you wish to "list" out the contents of a given folder you can use the command `ls`; this will list out all folder and files in a given folder. If we were to run the `ls` command from folder `living-room`, for example:
 
 ```
 cliv3@term-world:~/house/living-room$ ls
